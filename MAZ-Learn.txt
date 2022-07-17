@@ -1,2 +1,4 @@
 Learn 22
-- Bisa membuat web
+1) Bisa membuat web
+2) Bisa & Paham Perangkat Mobile
+3) Bisa & Paham Desain
