@@ -7,3 +7,6 @@ Belajar Web
 5) Framework CSS
   - Bootstrap
 6) Framework PHP
+7) Framework js
+8) Struktur Dasar File Web
+9) MVC
